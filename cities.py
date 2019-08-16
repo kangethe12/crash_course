@@ -1,0 +1,15 @@
+cities=['nairobi','kisumu','mombasa','isiolo']
+print(len(cities))
+print(cities)
+print(sorted(cities))
+print(cities)
+cities.sort()
+print(cities)
+cities.sort(reverse=True)
+print(cities)
+cities.reverse()
+print(cities)
+cities.reverse()
+print(cities)
+print(f"\nI have {len(cities)} cities with me")
+
